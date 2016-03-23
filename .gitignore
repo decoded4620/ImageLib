@@ -1,0 +1,13 @@
+Breve/
+3rdParty/
+JavaAPI/
+JavaClient/
+HomeServer/
+PTIntegrationTests/
+Android/
+iOSClient/
+Vision/
+.settings
+.gradle
+*.pem
+index.txt

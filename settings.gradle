@@ -1,7 +1,14 @@
 rootProject.name = 'PixlTone'
 
-include 'Breve'
-include 'JavaAPI'
-include 'JavaClient'
-include 'HomeServer'
-include 'PTIntegrationTests'
+include ':Breve'
+include ':JavaAPI'
+include ':JavaClient'
+include ':HomeServer'
+include ':PTIntegrationTests'
+
+
+project(':Breve').projectDir = "$rootDir/Breve" as File
+project(':JavaAPI').projectDir = "$rootDir/JavaAPI" as File
+project(':JavaClient').projectDir = "$rootDir/JavaClient" as File
+project(':HomeServer').projectDir = "$rootDir/HomeServer" as File
+project(':PTIntegrationTests').projectDir = "$rootDir/PTIntegrationTests" as File

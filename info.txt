@@ -1,9 +1,0 @@
-Breve - Gradle
-Home Server - Gradle
-Java API - Gradle
-Java Client - Gradle
-3rdParty/Cling - Gradle
-3rdParty/nanohttpd - Gradle
-3rdParty/seamless - Gradle
-3rdParty/seamless2 - Maven
-3rdParty/lemma - Maven

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Breve/
 3rdParty/
 JavaAPI/
@@ -13,3 +14,10 @@ Vision/
 index.txt
 serial
 test/
+=======
+/build/
+/bin/
+
+.gradle
+gradle/
+>>>>>>> 1e7da11aeddc52e1caae292aeb573330627b1169
